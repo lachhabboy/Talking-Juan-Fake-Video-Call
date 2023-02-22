@@ -1,9 +1,9 @@
 {
   "AdsManager": {
     "AdNetwork": "admob",
-    "AdmobBanner": "ca-app-pub-2120403233975259/3627921069",
-    "AdmobInterstitial": "ca-app-pub-2120403233975259/4145961663",
-    "AdmobNative": "ca-app-pub-2120403233975259/7997862179",
+    "AdmobBanner": "ca-app-pub-2101070214950875/9745040189",
+    "AdmobInterstitial": "ca-app-pub-2101070214950875/5805795170",
+    "AdmobNative": "ca-app-pub-2101070214950875/4412822455",
     "ApplovinBanner": "",
     "ApplovinInterstitial": "",
     "ApplovinNative": "",
